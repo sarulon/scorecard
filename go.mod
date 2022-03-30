@@ -19,7 +19,7 @@ require (
 	github.com/moby/buildkit v0.8.3
 	github.com/naveensrinivasan/httpcache v1.2.2
 	github.com/onsi/ginkgo v1.16.4
-	github.com/onsi/gomega v1.13.0
+	github.com/onsi/gomega v1.19.0
 	github.com/peterbourgon/diskv v2.0.1+incompatible
 	github.com/pkg/errors v0.9.1
 	github.com/shurcooL/githubv4 v0.0.0-20201206200315-234843c633fa
@@ -30,7 +30,6 @@ require (
 	go.uber.org/zap v1.18.1
 	gocloud.dev v0.23.0
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a // indirect
-	golang.org/x/net v0.0.0-20210510120150-4163338589ed // indirect
 	golang.org/x/tools v0.1.4
 	google.golang.org/genproto v0.0.0-20210624174822-c5cf32407d0a
 	google.golang.org/protobuf v1.27.1
